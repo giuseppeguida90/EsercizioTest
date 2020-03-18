@@ -10,6 +10,8 @@ public class TestMain {
 		
 		System.out.println(mytest);
 		
+		System.out.println("WEWE");
+		
 		System.out.println("Hello world");
 		
 		System.out.println("Fine");
