@@ -9,6 +9,8 @@ public class TestMain {
 		mytest.setThing2(24);
 		
 		System.out.println(mytest);
+		
+		System.out.println("Hello world");
 
 	}
 
